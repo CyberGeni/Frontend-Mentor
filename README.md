@@ -9,8 +9,8 @@
 | 01    | 3 column preview card       | | |
 | 02    | Four Card Feature Section   |||
 | 03    | Profile Card Component      |||
-|||||
-|||||
+| 04    | Single Price Grid           |||
+| 05    ||||
 |||||
 |||||
 |||||
