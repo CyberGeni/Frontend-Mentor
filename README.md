@@ -13,7 +13,7 @@
 | 05    | Stats Preview Card Component|||
 | 06    | Social Proof Section        |||
 | 07    | Huddle Landing Page (Single)|||
-| 08    | QR Code Component           | <img src="https://github.com/CyberGeni/qr-code-component/blob/master/design/desktop-design.jpg"> | [Live Link](https://CyberGeni.github.com//qr-code-component) |
+| 08    | QR Code Component           | <img src="https://github.com/CyberGeni/qr-code-component/blob/master/design/desktop-design.jpg"> | [Live Link](https://CyberGeni.github.io/qr-code-component) |
 | 09    | NFT Card                    |||
 | 10    ||||
 
