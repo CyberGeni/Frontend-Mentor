@@ -26,6 +26,7 @@
 | 03    | Fylo Dark Theme Landing Page         |||
 | 04    | Fylo Landing Page (Two Column Layout)|||
 | 05    | Huddle Landing Page (Curved Sections)|||
+| 06    | Loopstudios                          | <img src="https://github.com/CyberGeniloopstudios/blob/master/design/desktop-design.jpg"> | [Live Link](https://cybergeni.github.io/loopstudios/)|
 
 ## Intermediate
 
