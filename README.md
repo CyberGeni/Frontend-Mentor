@@ -15,7 +15,7 @@
 | 07    | Huddle Landing Page (Single)|||
 | 08    | QR Code Component           | <img src="https://github.com/CyberGeni/qr-code-component/blob/master/design/desktop-design.jpg"> | [Live Link](https://CyberGeni.github.io/qr-code-component) |
 | 09    | NFT Preview Card            | <img src="https://github.com/CyberGeni/nft-preview-card-component/blob/master/design/desktop-design.jpg"> | [Live Link](https://cybergeni.github.io/nft-preview-card-component/)|
-| 10    ||||
+| 10    | Easybank                    |||
 
 ## Junior
 
