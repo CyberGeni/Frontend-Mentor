@@ -33,7 +33,7 @@
 | S/N   | Name                     | Preview   | Solution  |
 |  ---  |     ---                  |    ---    |    ---    |
 | 01    | Chat App CSS illustration| <img src="https://github.com/CyberGeni/chat-app-illustration/blob/main/design/desktop-design.jpg"> | [Live Link](https://cybergeni.github.io/chat-app-illustration/)|
-|||||
+| 02    | Space Tour (coming soon) |||
 |||||
 |||||
 |||||
